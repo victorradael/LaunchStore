@@ -21,16 +21,11 @@ Project that simulates an e-commerce to put the knowledge of web development int
 
 ## 📝 Table of Contents
 
-- [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-
-## 🧐 About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
